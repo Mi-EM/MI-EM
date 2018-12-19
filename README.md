@@ -2,4 +2,4 @@
 
 My first trial repository
 
-I love :coffee:.
+I love :coffee:pizza:.
